@@ -1,0 +1,40 @@
+{
+  "name": "ts-ion-rangeslider",
+  "version": "0.0.1",
+  "description": "Cool, comfortable and easily customizable range slider with many options and skin support without jQuery dependency",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivkan/ts-ion-rangeslider.git"
+  },
+  "keywords": [
+    "typescript",
+    "vanilla",
+    "form",
+    "input",
+    "range",
+    "slider",
+    "rangeslider",
+    "interface",
+    "diapason",
+    "ui",
+    "noui",
+    "skins"
+  ],
+  "author": "Denis Ineshin (IonDen)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ivkan/ts-ion-rangeslider/issues"
+  },
+  "homepage": "https://github.com/ivkan/ts-ion-rangeslider#readme",
+  "devDependencies": {
+    "@types/jest": "^26.0.16",
+    "jest": "^26.6.3",
+    "ts-jest": "^26.4.4",
+    "typescript": "^4.1.2"
+  }
+}
