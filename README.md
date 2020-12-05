@@ -44,7 +44,7 @@ npm i ts-ion-rangeslider
 Add the following libraries to the page:
 * ts-ion-range-slider.min.js
 
-Add the following stylesheets to the page:
+Add the following stylesheets from <a href="https://github.com/IonDen/ion.rangeSlider" target="_blank">Ion.RangeSlider</a> to the page:
 * ion.rangeSlider.min.css
 
 ## Initialisation
