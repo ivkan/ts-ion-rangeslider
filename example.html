@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>TsIonRangeSlider Test</title>
+    <!--Plugin CSS file with desired skin-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ion-rangeslider/2.3.1/css/ion.rangeSlider.min.css"/>
+
+    <script src="https://unpkg.com/ts-ion-rangeslider@0.1.0/dist/ts-ion-range-slider.min.js"></script>
+</head>
+<body>
+
+</body>
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        const input = document.createElement('input');
+        document.body.append(input);
+
+        const sliderInputElement = new TsIonRangeSlider.Slider(input, {
+            skin            : 'round',
+            grid            : true,
+            grid_margin     : true,
+            grid_num        : 4,
+            grid_snap       : false,
+            hide_from_to    : false,
+            hide_min_max    : false,
+            onChange        : obj => console.log(obj),
+            onFinish        : obj => console.log(obj),
+            onStart         : obj => console.log(obj),
+            onUpdate        : obj => console.log(obj),
+            type            : 'double',
+            values          : ['a', 'b', 'c'],
+            values_separator: ','
+        });
+    });
+</script>
+</html>
