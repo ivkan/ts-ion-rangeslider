@@ -8,6 +8,7 @@ npm i ts-ion-rangeslider
 
 
 ```html
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ion-rangeslider/2.3.1/css/ion.rangeSlider.min.css"/>
 <script src="https://unpkg.com/ts-ion-rangeslider@0.1.0/dist/ts-ion-range-slider.min.js"></script>
 ```
 
