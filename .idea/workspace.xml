@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e4fbaf73-f537-4c34-bd13-9e30c73da38a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/index.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/test/index.spec.ts" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -141,6 +143,9 @@
       <updated>1607150676782</updated>
       <workItem from="1607150678185" duration="13992000" />
       <workItem from="1607240479845" duration="74000" />
+      <workItem from="1607246158221" duration="134000" />
+      <workItem from="1607254699670" duration="2167000" />
+      <workItem from="1610688417827" duration="338000" />
     </task>
     <task id="LOCAL-00001" summary="Preview image added">
       <created>1607179941372</created>
@@ -163,7 +168,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607180884910</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Update readme">
+      <created>1607246234354</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1607246234354</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
