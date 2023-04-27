@@ -144,7 +144,7 @@ export namespace TsIonRangeSlider
     // Core
     // =================================================================================================================
 
-    constructor(input: HTMLInputElement, options: IonRangeSliderOptions)
+    constructor(input: HTMLInputElement, options?: IonRangeSliderOptions)
     {
       this.rangeSlider(input, options);
     }

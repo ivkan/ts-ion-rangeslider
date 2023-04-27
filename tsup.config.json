@@ -1,0 +1,15 @@
+{
+    "globalName": "TsIonRangeSlider",
+    "splitting": true,
+    "sourcemap": false,
+    "clean": true,
+    "dts": true,
+    "format": [
+        "esm",
+        "iife"
+    ],
+    "minify": true,
+    "bundle": true,
+    "skipNodeModulesBundle": true,
+    "entry": ["src/index.ts"]
+}
